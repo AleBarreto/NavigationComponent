@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Navigation Component</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Login Fragment -->
+    <string name="login_action_bar_title">Login</string>
+    <string name="login_input_layout_hint_username">Username</string>
+    <string name="login_input_layout_hint_password">Password</string>
+    <string name="login_button_text_sign_in">Sign in</string>
+    <string name="login_button_text_sign_up">Sign up</string>
+    <string name="login_input_layout_error_invalid_username">Invalid username</string>
+    <string name="login_input_layout_error_invalid_password">Invalid password</string>
+
 </resources>
